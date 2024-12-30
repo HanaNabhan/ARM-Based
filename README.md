@@ -1,18 +1,16 @@
-# ELE334 Embedded Systems
+# ARM Embedded Systems
 
-Welcome to the **ELE334 Embedded Systems** repository! This repo contains course materials and resources.
+Welcome to the **ARM Embedded Systems** repository! This repo contains course materials and resources.
 
 ## Structure
 
-- **Labs/**: Lab exercises and code
-- **Assignments/**: Assignment details
-- **Projects/**: Project information
-- **Videos/**: Tutorials and resources
+- Labs/: Lab exercises and code
+
 
 ## Getting Started
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/HanaNabhan/ELE334-Embedded-System.git
+git clone https://github.com/HanaNabhan/ARM-Based.git
 ```
